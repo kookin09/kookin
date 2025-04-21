@@ -1,2 +1,2 @@
-# kookin
+# git
 git 특강
